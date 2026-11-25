@@ -1,0 +1,6 @@
+{
+  "name": "Finora",
+  "description": "An intelligent personal finance, budgeting, expense tracking, and financial analytics platform with Liquid Glass design.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
